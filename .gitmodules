@@ -1,0 +1,3 @@
+[submodule "libenca"]
+	path = libenca
+	url = https://git.gitorious.org/enca/enca.git
