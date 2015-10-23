@@ -1,3 +1,0 @@
-[submodule "libenca"]
-	path = libenca
-	url = https://github.com/nijel/enca.git
